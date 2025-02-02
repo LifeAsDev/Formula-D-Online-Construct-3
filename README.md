@@ -9,7 +9,9 @@ A web-based multiplayer implementation of the Formula D board game, built with C
 - Allow zigzag on great start
 - If player overshot corner do not count stop if ends in another
 - Create icons for statistics
-- Add features to multiplayer
+- Add features to multiplayer(80%)
+- Fix pathfinding with damage markers(sometimes it take the path with the damage marker having a path to the same tile without damage)
+
 
 # Contributions
 All help is welcome! If you have ideas, bug reports, sprites, or improvements, open an issue or join to my [Discord](https://discord.gg/jcuMBRY788).
