@@ -11,6 +11,7 @@ A web-based multiplayer implementation of the Formula D board game, built with C
 - Create icons for statistics
 - Add features to multiplayer(80%)
 - Fix pathfinding with damage markers(sometimes it take the path with the damage marker having a path to the same tile without damage)
+- Add Amateur and Pro Bots(current bots are beginners)
 
 
 # Contributions
